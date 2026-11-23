@@ -28,4 +28,4 @@ Query results go to stdout, the summary to stderr. To benchmark without filling 
 Live demo (30 s): `java ... StreamBenchmark --threads 4 --seconds 30 --warmup 2 --opts optimized --progress > out.txt`
 
 `deadlock-timeout` uses `SET deadlock_timeout`, which needs the `postgres` superuser.
-# adb-hw3
+
